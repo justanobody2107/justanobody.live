@@ -16,4 +16,6 @@ portfolio  - Opens the "real" site with all of my projects
 [br]
 discord    - Join my discord!
 [br]
+[r]Mobile support ETA soon
+[br]
 [br]
