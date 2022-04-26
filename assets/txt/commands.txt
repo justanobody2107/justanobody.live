@@ -7,8 +7,7 @@ help     - Prints out this list of commands.
 [br]
 matrix     - Opens 
 [link](https://element.io)element
-. 
-[r](down for the time being)
+.
 [br]
 socials    - Prints a list of my social media accounts.
 [br]
